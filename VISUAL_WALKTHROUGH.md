@@ -2,65 +2,80 @@
 
 This page gives a quick visual route through the current Digital Mycelium v0.3 public showcase.
 
+The goal is simple:
+
+A visitor should be able to see the route before reading every receipt.
+
+---
+
 ## 1. Demo-ready state
 
-Show:
+Shows the current demo-ready state and public route lock.
 
-`HELD_DEMO_READY_STATE_v0_3\HELD_STATE.txt`
+![Demo-ready state](SCREENSHOTS/01-demo-ready-state.png)
 
-Meaning:
+---
 
-The public demo route is currently held, top-of-chain indexed, and live-rehearsed.
+## 2. Top-of-chain state
 
-## 2. Top-of-chain packet
+Shows the current v0.3 top-of-chain manifest phase seal.
 
-Current packet:
+![Top-of-chain state](SCREENSHOTS/02-top-of-chain-state.png)
 
-`Digital_Mycelium_v0_3_OPTIONAL_OLLAMA_WITNESS_MANIFEST_PHASE_SEAL.zip`
+---
 
-SHA-256:
+## 3. Cockpit input
 
-`67631359D0BA30EB3BC0F4D436F1B984CEA5B794136F9F7BB3934CCF4CF1D2AB`
+Shows the hardened local cockpit with the current top-of-chain packet selected.
 
-## 3. Hardened cockpit
+![Cockpit input](SCREENSHOTS/03-cockpit-input.png)
 
-Run:
+---
 
-`python3 -u .\local_review_cockpit_v0_2_2.py`
+## 4. Cross-platform held result
 
-Then use the current top-of-chain packet as input.
+Shows the deterministic binder route returning a held/verified result.
 
-## 4. Expected result
-
-State:
+Expected core signal:
 
 `CROSS_PLATFORM_GENERALIZED_INTAKE_HELD`
 
-Verified:
+Result view 1:
 
-`True`
+![Cross-platform held result 1](SCREENSHOTS/04-cross-platform-held-01.png)
 
-## 5. Rehearsal proof
+Result view 2:
 
-Live rehearsal seal SHA-256:
+![Cross-platform held result 2](SCREENSHOTS/04-cross-platform-held-02.png)
 
-`D3DD078BCDB7900DA07F447B27A5DC0F359497BF6383E98D1496C83AB025B98A`
+---
 
-## 6. Authority boundary
+## 5. Technical receipts
 
-The deterministic kernel and receipts remain authority.
+Shows the public receipt/index page.
 
-Ollama is optional witness commentary only.
+![Technical receipts](SCREENSHOTS/05-technical-receipts.png)
 
-Ollama does not decide HELD.
+---
 
-## Screenshot slots
+## 6. Public boundary
 
-Add screenshots here later:
+Shows the public boundary page.
 
-- `SCREENSHOTS/01-demo-ready-state.png`
-- `SCREENSHOTS/02-top-of-chain-state.png`
-- `SCREENSHOTS/03-cockpit-input.png`
-- `SCREENSHOTS/04-cross-platform-held.png`
-- `SCREENSHOTS/05-technical-receipts.png`
-- `SCREENSHOTS/06-public-boundary.png`
+![Public boundary](SCREENSHOTS/06-public-boundary.png)
+
+---
+
+## Screenshot receipt index
+
+Screenshot SHA-256 values are recorded in:
+
+`SCREENSHOTS/SCREENSHOT_INDEX_v0_1.json`
+
+## Boundary
+
+These screenshots are public-comprehension aids.
+
+They do not replace the deterministic receipts.
+
+They do not create any claim of consciousness, biological life, AGI, institutional endorsement, external validation, legal conclusion, or content settlement.
