@@ -1,0 +1,16 @@
+# Local-only / generated exclusions
+*.zip
+*.7z
+*.tar
+*.gz
+*.rar
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+dm_standalone_output*/
+LIVE_DEMO_REHEARSAL*/
+OLLAMA_LOCAL_WITNESS_ORGAN*/
+HELD_RECEIPTS*/
+HELD_SNAPSHOT*/

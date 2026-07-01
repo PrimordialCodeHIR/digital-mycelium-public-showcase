@@ -1,0 +1,39 @@
+Digital Mycelium Master Demo Ledger v0.3 — Optional Ollama Witness
+
+State:
+MASTER_DEMO_LEDGER_v0_3_OPTIONAL_OLLAMA_WITNESS_HELD
+
+Ledger:
+Digital_Mycelium_Master_Demo_Ledger_v0_3_OPTIONAL_OLLAMA_WITNESS.zip
+
+SHA-256:
+CFE6444FCEE37323B4D6C769D6BA007550D0F5A376E96B96277969018EA0AC5A
+
+Route:
+DETERMINISTIC_PUBLIC_BRANCH_WITH_OPTIONAL_LOCAL_OLLAMA_WITNESS_HELD
+
+Indexed artifacts:
+- Manifest phase seal
+- WSL/Linux second-platform witness seal
+- Public-safe demo packet
+- TED/public demo narrative packet
+- Ollama local witness organ v0.3.2 seal
+
+Authority boundary:
+The deterministic kernel and receipts remain authority.
+Ollama is optional witness commentary only.
+Ollama does not decide HELD.
+
+Boundary:
+No consciousness claim.
+No biological life claim.
+No AGI claim.
+No institutional endorsement claim.
+No external validation claim.
+No content-settlement claim.
+No external LLM required for deterministic binder route.
+No GPU required during deterministic binder route.
+No network required during binder route.
+
+Receipt meaning:
+This ledger seals the deterministic/public demonstration branch with an optional local Ollama/RTX 4090 witness organ, while preserving the deterministic kernel as the authority.

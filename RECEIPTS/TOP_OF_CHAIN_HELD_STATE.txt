@@ -1,0 +1,47 @@
+Digital Mycelium v0.3 Optional Ollama Witness Manifest Phase Seal
+
+State:
+DIGITAL_MYCELIUM_v0_3_OPTIONAL_OLLAMA_WITNESS_MANIFEST_PHASE_SEAL_HELD
+
+Top-of-chain:
+TRUE
+
+Seal:
+Digital_Mycelium_v0_3_OPTIONAL_OLLAMA_WITNESS_MANIFEST_PHASE_SEAL.zip
+
+SHA-256:
+67631359D0BA30EB3BC0F4D436F1B984CEA5B794136F9F7BB3934CCF4CF1D2AB
+
+Route:
+DETERMINISTIC_PUBLIC_BRANCH_WITH_OPTIONAL_LOCAL_OLLAMA_WITNESS_HELD
+
+Indexed branch:
+- deterministic generalized ingestion kernel
+- hardened local review cockpit
+- WSL/Linux second-platform witness
+- public-safe demo packet
+- TED/public narrative packet
+- master demo ledger v0.2.2
+- optional Ollama local witness organ v0.3.2
+- master demo ledger v0.3
+- compact v0.3 manifest-only phase seal
+
+Authority boundary:
+The deterministic kernel and receipts remain authority.
+Ollama is optional witness commentary only.
+Ollama does not decide HELD.
+
+Boundary:
+No consciousness claim.
+No biological life claim.
+No AGI claim.
+No institutional endorsement claim.
+No external validation claim.
+No content-settlement claim.
+No external LLM required for deterministic binder route.
+No GPU required during deterministic binder route.
+No network required during binder route.
+Recursive archive bloat refused.
+
+Receipt meaning:
+This is the current top-of-chain lock for the Digital Mycelium deterministic/public branch with optional local Ollama/RTX 4090 witness organ.

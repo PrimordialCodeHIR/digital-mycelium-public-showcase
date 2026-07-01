@@ -1,0 +1,82 @@
+[
+  {
+    "role": "Manifest phase seal",
+    "file": ".\\Digital_Mycelium_Standalone_v0_1a_to_v0_2_2_MANIFEST_PHASE_SEAL.zip",
+    "exists": true,
+    "length_bytes": 1271050,
+    "expected_sha256": "2B446FD0B3B91A5E125B582ED7B362C00EE67A7F66D2F640241B12573D240E9E",
+    "actual_sha256": "2B446FD0B3B91A5E125B582ED7B362C00EE67A7F66D2F640241B12573D240E9E",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; prior compact seal"
+  },
+  {
+    "role": "WSL/Linux second-platform witness seal",
+    "file": ".\\Digital_Mycelium_v0_2_2_WSL_LINUX_SECOND_PLATFORM_WITNESS_SEAL.zip",
+    "exists": true,
+    "length_bytes": 10741,
+    "expected_sha256": "48215FB60A401D8B73EA1310601DB5CFDE53402607E7B3F8C5E30E9B83640EFA",
+    "actual_sha256": "48215FB60A401D8B73EA1310601DB5CFDE53402607E7B3F8C5E30E9B83640EFA",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; compact seal"
+  },
+  {
+    "role": "Public-safe demo packet",
+    "file": ".\\Digital_Mycelium_Public_Safe_Demo_Packet_v0_2_2.zip",
+    "exists": true,
+    "length_bytes": 25646,
+    "expected_sha256": "887A95E7A21EC1798D474134CD0ACAA178F181121D5F515CFF5190A550908467",
+    "actual_sha256": "887A95E7A21EC1798D474134CD0ACAA178F181121D5F515CFF5190A550908467",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; public review packet"
+  },
+  {
+    "role": "TED/public demo narrative packet",
+    "file": ".\\Digital_Mycelium_TED_Public_Demo_Narrative_Packet_v0_2_2.zip",
+    "exists": true,
+    "length_bytes": 5454,
+    "expected_sha256": "2344CAAD7B6DC3F1CC77680038C08EBCA6C64696E3F14C00CF456B8BC0EF0B29",
+    "actual_sha256": "2344CAAD7B6DC3F1CC77680038C08EBCA6C64696E3F14C00CF456B8BC0EF0B29",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; narrative packet"
+  },
+  {
+    "role": "Master demo ledger v0.2.2",
+    "file": ".\\Digital_Mycelium_Master_Demo_Ledger_v0_2_2.zip",
+    "exists": true,
+    "length_bytes": 2207,
+    "expected_sha256": "890AB647829D872BAC4EB002D3068EED6BFA8C9B6EE94684F81271E0F25BC60D",
+    "actual_sha256": "890AB647829D872BAC4EB002D3068EED6BFA8C9B6EE94684F81271E0F25BC60D",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; deterministic/public branch ledger"
+  },
+  {
+    "role": "Ollama local witness organ v0.3.2 seal",
+    "file": ".\\Digital_Mycelium_Ollama_Local_Witness_Organ_v0_3_2_SEAL.zip",
+    "exists": true,
+    "length_bytes": 34583,
+    "expected_sha256": "1662CF5D3E01FF524433B3B3FB5BCAD7644EB559352DA50B1BB0326045C28193",
+    "actual_sha256": "1662CF5D3E01FF524433B3B3FB5BCAD7644EB559352DA50B1BB0326045C28193",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; optional witness only"
+  },
+  {
+    "role": "Master demo ledger v0.3 optional Ollama witness",
+    "file": ".\\Digital_Mycelium_Master_Demo_Ledger_v0_3_OPTIONAL_OLLAMA_WITNESS.zip",
+    "exists": true,
+    "length_bytes": 2695,
+    "expected_sha256": "CFE6444FCEE37323B4D6C769D6BA007550D0F5A376E96B96277969018EA0AC5A",
+    "actual_sha256": "CFE6444FCEE37323B4D6C769D6BA007550D0F5A376E96B96277969018EA0AC5A",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; current master ledger"
+  },
+  {
+    "role": "Linux witness output packet",
+    "file": ".\\HELD_RECEIPTS_v0_2_2_WSL_LINUX_WITNESS\\Digital_Mycelium_Standalone_Generalized_Intake_dm-general-4bd3c9b40e92ea0c.zip",
+    "exists": true,
+    "length_bytes": 3903978,
+    "expected_sha256": "56A7BB11ECD33BB91D3CE47D6FB319415BA74339579A5B7ED5A3FC3C259FAF07",
+    "actual_sha256": "56A7BB11ECD33BB91D3CE47D6FB319415BA74339579A5B7ED5A3FC3C259FAF07",
+    "hash_match": true,
+    "embed_policy": "hash-indexed; not recursively embedded"
+  }
+]

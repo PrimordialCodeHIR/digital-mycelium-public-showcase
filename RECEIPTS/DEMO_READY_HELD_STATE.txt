@@ -1,0 +1,66 @@
+Digital Mycelium Demo-Ready State v0.3
+
+State:
+DIGITAL_MYCELIUM_DEMO_READY_STATE_v0_3_HELD
+
+Current top-of-chain:
+DIGITAL_MYCELIUM_v0_3_OPTIONAL_OLLAMA_WITNESS_MANIFEST_PHASE_SEAL_HELD
+
+Top-of-chain packet:
+Digital_Mycelium_v0_3_OPTIONAL_OLLAMA_WITNESS_MANIFEST_PHASE_SEAL.zip
+
+Top-of-chain SHA-256:
+67631359D0BA30EB3BC0F4D436F1B984CEA5B794136F9F7BB3934CCF4CF1D2AB
+
+Live demo rehearsal:
+LIVE_DEMO_REHEARSAL_v0_3_TOP_OF_CHAIN_SEAL_HELD
+
+Live demo rehearsal seal:
+Digital_Mycelium_Live_Demo_Rehearsal_v0_3_TOP_OF_CHAIN_SEAL.zip
+
+Live demo rehearsal seal SHA-256:
+D3DD078BCDB7900DA07F447B27A5DC0F359497BF6383E98D1496C83AB025B98A
+
+Demo input:
+Digital_Mycelium_v0_3_OPTIONAL_OLLAMA_WITNESS_MANIFEST_PHASE_SEAL.zip
+
+Demo rehearsal output:
+Digital_Mycelium_Standalone_Generalized_Intake_dm-general-6dddde30217a7311.zip
+
+Demo rehearsal output SHA-256:
+035676400989C98F43C34465B2CCFACCA338AF2E771F22792543C86E9BC19892
+
+Kernel result:
+CROSS_PLATFORM_GENERALIZED_INTAKE_HELD
+
+Verified:
+True
+
+Payload file count:
+13
+
+Payload cohort hash:
+9006362e4cd9cece02d57c27ab3e43ab5c09ec6f3530e8edf64716bfa10cd3e5
+
+Authority boundary:
+The deterministic kernel and receipts remain authority.
+Ollama is optional witness commentary only.
+Ollama does not decide HELD.
+
+Demo sentence:
+Digital Mycelium v0.3 is a local deterministic source-return engine whose current top-of-chain packet was live-rehearsed through the hardened ingestion route, verified true, and sealed with receipts; optional Ollama commentary remains witness-only.
+
+Boundary:
+No consciousness claim.
+No biological life claim.
+No AGI claim.
+No institutional endorsement claim.
+No external validation claim.
+No content-settlement claim.
+No external LLM required for deterministic binder route.
+No GPU required during deterministic binder route.
+No network required during binder route.
+Recursive archive bloat refused.
+
+Receipt meaning:
+This folder is the current operator-facing demo-ready marker. It tells which packet is current, which rehearsal proved the live path, and which boundaries must remain locked during public demonstration.
