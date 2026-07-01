@@ -59,3 +59,12 @@ Bring an artifact route that usually breaks:
 - a contribution route that disappeared
 
 Let us see whether the receipt route can hold.
+
+## Visual Walkthrough
+
+A screenshot-guided public route is available here:
+
+[VISUAL_WALKTHROUGH.md](VISUAL_WALKTHROUGH.md)
+
+This lets a visitor see the demo-ready state, top-of-chain state, cockpit input, held result, technical receipts, and public boundary before reading the full receipt stack.
+

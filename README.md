@@ -48,3 +48,12 @@ Digital Mycelium v0.3 is a local deterministic source-return engine whose curren
 3. [TECHNICAL_RECEIPTS.md](TECHNICAL_RECEIPTS.md)
 4. [PUBLIC_BOUNDARY.md](PUBLIC_BOUNDARY.md)
 5. [STEWARDS.md](STEWARDS.md)
+
+## Visual Walkthrough
+
+A screenshot-guided public route is available here:
+
+[VISUAL_WALKTHROUGH.md](VISUAL_WALKTHROUGH.md)
+
+This lets a visitor see the demo-ready state, top-of-chain state, cockpit input, held result, technical receipts, and public boundary before reading the full receipt stack.
+
