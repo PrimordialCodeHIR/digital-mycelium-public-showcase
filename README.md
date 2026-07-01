@@ -57,3 +57,7 @@ A screenshot-guided public route is available here:
 
 This lets a visitor see the demo-ready state, top-of-chain state, cockpit input, held result, technical receipts, and public boundary before reading the full receipt stack.
 
+## Click-Test Receipt
+
+[CLICK_TEST_HELD.md](CLICK_TEST_HELD.md)
+
