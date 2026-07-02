@@ -1,0 +1,44 @@
+{
+  "schema_name": "DIGITAL_MYCELIUM_BRIDGE_EXPORT_PACKAGE_FILE_INDEX",
+  "schema_version": "0.1",
+  "created_at_utc": "2026-07-02T00:00:00Z",
+  "package_root": "BRIDGE_EXPORT_v0_1",
+  "note": "External zip SHA-256 sidecar is provided separately. This index hashes the files inside the package folder and intentionally does not include itself.",
+  "files": [
+    {
+      "path": "BOUNDARY_DECLARATION_TEMPLATE.md",
+      "size_bytes": 2906,
+      "sha256": "13024f03097857750f519f7458dade1513ac0a31f4e8f9b34d994613cc5f7f74"
+    },
+    {
+      "path": "BRIDGE_EXPORT_SCHEMA_v0_1.md",
+      "size_bytes": 9933,
+      "sha256": "b8b657aba7aba0f6c83f37fb437da1efd695d62b0ab2054daae60c7159bf916c"
+    },
+    {
+      "path": "PACKAGE_RECEIPT.md",
+      "size_bytes": 1533,
+      "sha256": "f38525e7bc2be263b1eca1574920edb4648b88f50aeb4cc6d7c89327c96fe651"
+    },
+    {
+      "path": "README_carry_forward_TEMPLATE.md",
+      "size_bytes": 3130,
+      "sha256": "394a18e823649dd976d0a8300a699314661c3aa86a21b5b05e5c1fb289d9aaed"
+    },
+    {
+      "path": "SAMPLE_PACKET_README.md",
+      "size_bytes": 2668,
+      "sha256": "fe0ba7c7ffefc990e7cec4f0ec9c3fdaef5407568eb787901010cca66045248e"
+    },
+    {
+      "path": "VALIDATION_BATTERY_v0_1.md",
+      "size_bytes": 8036,
+      "sha256": "4f03370f3ebf4872bb19884d6e271497a002d9e4dddd4826a813624c1d65adbb"
+    },
+    {
+      "path": "dm_bridge_export.example.json",
+      "size_bytes": 4133,
+      "sha256": "073c57ffcc6b74607532accfd3084c51dd914f76764cc0ce1138bc8f1176918a"
+    }
+  ]
+}

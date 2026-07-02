@@ -1,0 +1,98 @@
+{
+  "schema_name": "DIGITAL_MYCELIUM_STANDARD_BRIDGE_EXPORT",
+  "schema_version": "0.1",
+  "packet_id": "dm-bridge-example-0001",
+  "packet_kind": "artifact_carry_forward_packet",
+  "created_at_utc": "2026-07-02T00:00:00Z",
+  "product_line": "AI helps people generate. Digital Mycelium helps the artifact carry forward.",
+  "source_tool_tag": {
+    "tool_name": "example-code-assistant",
+    "tool_type": "code_assistant",
+    "tool_version": "unknown_or_optional",
+    "operator_note": "Human-directed AI-assisted build output"
+  },
+  "source_route_ref": {
+    "route_kind": "local_workspace",
+    "route_label": "Example code assistant output folder",
+    "uri_or_path_hint": "public-example/no-private-path",
+    "privacy_note": "Public packets should not expose private local paths, tokens, account data, secrets, or private user identifiers."
+  },
+  "prompt_or_seed_ref": {
+    "mode": "hash_only",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "local_ref": "receipts/prompt_or_seed_ref.txt",
+    "disclosure_note": "Prompt, seed, or origin instruction may be embedded, referenced, or hash-only depending on privacy and review needs."
+  },
+  "artifact_manifest": [
+    {
+      "artifact_id": "artifact_001",
+      "path": "source/generated_artifact.py",
+      "role": "carried_artifact",
+      "source_return_role": "primary_payload",
+      "kind": "code",
+      "media_type": "text/plain",
+      "size_bytes": 0,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "included_in_cohort_hash": true
+    }
+  ],
+  "cohort_hash": {
+    "algorithm": "sha256",
+    "canonicalization": "sort artifact_manifest entries by path; include only entries where included_in_cohort_hash is true; for each entry use path|sha256|size_bytes; join lines with LF; compute sha256 over UTF-8 canonical_manifest_text",
+    "value": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "lineage": {
+    "parent_packet_ids": [],
+    "source_artifact_refs": [],
+    "known_route_events": [],
+    "source_return_note": "This bridge packet preserves route context so the carried artifact does not become an orphaned output."
+  },
+  "authority": {
+    "held_decider": "deterministic_receipts_and_digital_mycelium_intake",
+    "ai_role": "optional_witness_commentary_only",
+    "external_llm_required": false,
+    "gpu_required": false,
+    "network_required_during_deterministic_route": false,
+    "hashes_verify_file_continuity_only": true,
+    "semantic_correctness_not_proven_by_hash": true
+  },
+  "boundary_declaration": {
+    "summary": "Bridge/export packet for source-return intake readiness only.",
+    "positive_claim": "This packet preserves minimum source-return structure for later Digital Mycelium intake.",
+    "denied_claims": [
+      "consciousness claim",
+      "biological life claim",
+      "AGI claim",
+      "institutional endorsement claim",
+      "external validation claim",
+      "legal conclusion",
+      "medical conclusion",
+      "clinical validity claim",
+      "forensic conclusion",
+      "security guarantee",
+      "safety guarantee",
+      "semantic correctness claim",
+      "content settlement claim"
+    ],
+    "content_settlement_denied": true,
+    "human_review_required": true
+  },
+  "receipt_stub": {
+    "state": "BRIDGE_EXPORT_PACKET_STUB_HELD",
+    "intake_ready": true,
+    "closure_mode": "non_destructive_source_return_stub",
+    "generated_at_utc": "2026-07-02T00:00:00Z",
+    "notes": [
+      "This bridge receipt does not replace deterministic Digital Mycelium verification.",
+      "This packet is intended to arrive intake-ready.",
+      "The carried artifact remains inspectable in source/.",
+      "Final HELD settlement must be earned through the receiving intake route."
+    ]
+  },
+  "target_intake": {
+    "intended_receiver": "Digital Mycelium",
+    "compatible_route": "v0.3 generalized intake / future bridge intake",
+    "can_reenter_digital_mycelium": true,
+    "suggested_next_action": "Run through Digital Mycelium intake and compare returned receipts against this bridge export packet."
+  }
+}
