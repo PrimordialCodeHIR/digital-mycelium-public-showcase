@@ -4,7 +4,11 @@
 
 **AI helps people generate. Digital Mycelium helps the artifact carry forward.**
 
-Digital Mycelium is a receipt-bound artifact continuity and pressure-route system for AI-era creation. It helps generated files, folders, ZIPs, apps, dashboards, packets, and derivative artifacts preserve source, lineage, boundary, and review context instead of becoming orphaned outputs.
+Digital Mycelium is a **regenerative recursive resonance reclamation engine** for AI-era artifacts.
+
+Its synthesis target is **instantaneous alignment under pressure**: when an artifact meets strain, the system works to align source, lineage, boundary, cognition route, repair signal, and next-step direction before the work collapses into orphaned output or untraceable drift.
+
+In builder terms, Digital Mycelium gives solo creators a first pressure world. It helps an artifact show how it carried, where it strained, what can be reclaimed, and what should happen next.
 
 Digital Mycelium v0.3 is the current local deterministic source-return engine. It receives a file, ZIP, or folder; records structure; generates trace capsules and route receipts; exports a packet; re-ingests that packet; and verifies whether the route held.
 
@@ -26,11 +30,11 @@ The receipt carries the first account.
 
 ## What Digital Mycelium Is For
 
-Digital Mycelium is not only an archive wrapper or app continuity checker.
+Digital Mycelium is not only an archive wrapper, app continuity checker, or receipt generator.
 
-It gives solo builders and AI-assisted creators a first pressure world before broader public handoff.
+It is a receipt-governed pressure route for AI-assisted work.
 
-A builder can run an artifact through a structured route that captures source, structure, patch edges, lineage, boundaries, receipts, and re-ingest verification.
+A solo builder can run an artifact through a structured path that captures source, structure, patch edges, lineage, boundaries, receipts, and re-ingest verification.
 
 The goal is to help the artifact answer practical questions:
 
@@ -43,7 +47,7 @@ The goal is to help the artifact answer practical questions:
 - What can be handed off?
 - What direction should the project grow next?
 
-Digital Mycelium helps the work show how it carried, where it strained, and where it can grow next.
+Digital Mycelium does not just preserve the artifact. It helps the work show how it carried, where it strained, and where it can grow next.
 
 It does not replace real users, beta testers, professional QA, security audits, legal review, peer review, or institutional validation. It gives the builder a receipt-bearing route for continuity, pressure, repair direction, and review readiness before those larger processes arrive.
 
@@ -62,6 +66,30 @@ As an artifact moves through the Digital Mycelium route, multiple cognition styl
 The goal is not only to preserve the artifact. The goal is to help the artifact reveal how it carries, where it strains, what can be repaired, and what should fruit next.
 
 This process is currently human-directed and receipt-governed.
+
+---
+
+## Pressure, Repair, and Next-Patch Direction
+
+Most review systems stop at diagnosis.
+
+Digital Mycelium is designed to go further: it helps turn artifact strain into a next-patch route.
+
+A pressure route may expose:
+
+- orphaned files
+- broken lineage
+- stale documentation
+- missing receipts
+- overwritten structure
+- boundary drift
+- unclear handoff paths
+- weak public-review surfaces
+- patch edges that need repair
+
+The output is not just “something is wrong.” The output is a reviewable account of what held, what strained, what should be repaired, and what route the next patch can take.
+
+This is why the system matters for solo builders. It helps reduce the time spent waiting for outside pressure by giving the work a first structured pressure environment.
 
 ---
 
@@ -132,6 +160,26 @@ When two artifacts, creators, or contribution routes combine, Digital Mycelium c
 The goal is a lineage mesh: collaboration without source erasure.
 
 **Mesh, not mush.**
+
+---
+
+## Source-Return Boundary
+
+Digital Mycelium is built around source-return.
+
+A carried artifact should not pretend it came from nowhere. A derivative artifact should not erase the route it grew from. A collaboration should not collapse multiple contributions into an anonymous pile.
+
+The system is designed to preserve:
+
+- source context
+- lineage
+- boundary declarations
+- receipt history
+- patch route
+- review context
+- human decision points
+
+The goal is not capture. The goal is honest carry-forward.
 
 ---
 
